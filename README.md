@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pharmacy Management System 💊
 
 A Java Swing + MySQL based Pharmacy Management System built using **NetBeans IDE**.  
@@ -58,3 +59,7 @@ It manages medicines, customers, billing, and stock.
 3. NetBeans IDE
 
 4. XAMPP (Local server)
+=======
+# pharmacy-management-system
+A Java Swing + MySQL based Pharmacy Management System with executable build and database export. Built using NetBeans IDE, XAMPP (phpMyAdmin), and packaged for easy setup.
+>>>>>>> bfde3c3f50ba5e1b3b73c0ee2efb39cec14412ee
