@@ -1,0 +1,6 @@
+# config.properties
+db.host=localhost
+db.port=3306
+db.name=pharma
+db.user=root
+db.pass=

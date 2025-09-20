@@ -1,0 +1,20 @@
+Sorting:
+Insertion sort:3
+Merge sort:4
+Bubble sort:11
+Selection Sort:5
+Quick sort:18
+Binary Search:7
+DP:10
+Shortest Path:2
+DFS-4
+BFS-3
+Knapsack(Greedy)-1//1446A(CF)
+Knapsack(DP)-1//1446A(CF)
+Prims:2(HR)-(Roads in hackerland, special subtree)
+Kruskal-1(HR)
+MInimum MST-1(HR)
+Floyd warshall-1(HR)-(City of bliniding lights)
+Dijkastra-1(HR)-(Shortest reach)
+LCS-1(HR)-(THe longest common subsequence)
+Tower of hanoi-1(HR)
