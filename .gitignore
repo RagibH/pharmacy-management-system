@@ -14,6 +14,9 @@
 /.vscode/
 
 
+*.exe
+
+
 # local config (do NOT commit real credentials)
 config.properties
 config.properties.local
